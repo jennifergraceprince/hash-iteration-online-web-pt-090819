@@ -7,5 +7,5 @@ passengers.each do
     winner = name
   end
 end
-
 winner
+end
